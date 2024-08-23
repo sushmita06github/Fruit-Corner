@@ -7,3 +7,4 @@
   - Remove fruits from the basket entirely if desired.
 - All user interactions are handled through DOM (Document Object Model) manipulation, ensuring a dynamic and responsive experience.
 - This project is part of the Founders and Coders' pre-apprenticeship bootcamp, fulfilling specific program requirements.
+- ![screencapture](https://github.com/user-attachments/assets/ccdca27f-b583-4f09-a406-75d2ac816173)
