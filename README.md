@@ -1,4 +1,4 @@
-# fruit-shop
+# FRUIT CORNER
 - The website is created using HTML, CSS, and JavaScript, demonstrating core web development skills.
 - Users can:
   - Browse a selection of fruits available on the site.
